@@ -1,0 +1,5 @@
+Nom du fichier	Texte à enregistrer (Malagasy)
+welcome.mp3	"Tongasoa eto amin'ny Tantsaha Connect. Tsindrio ny sary raha te hahalala bebe kokoa."
+meteo_rain.mp3	"Hisy orana rahampitso. Miomàna ianao."
+meteo_sun.mp3	"Tsara ny andro anio. Afaka miasa eny an-tsaha ianao."
+journal_success.mp3	"Voarakitra soa aman-tsara."

@@ -1,0 +1,10 @@
+﻿node_modules/
+**/node_modules/
+.expo/
+**/.expo/
+.env
+.env.*
+!.env.example
+dist/
+build/
+coverage/

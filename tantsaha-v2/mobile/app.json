@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Tantsaha Connect",
+    "slug": "tantsaha-connect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "icon": "./assets/icon.png",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#4CAF50"
+      },
+      "package": "com.sakuta123.tantsahaconnect",
+      "usesCleartextTraffic": true 
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-notifications",
+      "expo-sqlite",
+      "expo-asset",
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "af01dbe2-193c-4c46-ab0e-dc8d868f3733"
+      }
+    }
+  }
+}
